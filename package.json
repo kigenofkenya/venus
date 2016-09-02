@@ -1,0 +1,25 @@
+{
+  "name": "venus",
+  "version": "0.1.0",
+  "description": "A client first project that combines Vue.js, Electron, Nedb, Umwelt and Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kigenofkenya/venus.git"
+  },
+  "keywords": [
+    "Vue.js",
+    "Electron",
+    "Nedb",
+    "Umwelt"
+  ],
+  "author": "Ahmed Nzibo <a.nzibo@gmail.com> (https://github.com/kigenofkenya)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kigenofkenya/venus/issues"
+  },
+  "homepage": "https://github.com/kigenofkenya/venus#readme"
+}
